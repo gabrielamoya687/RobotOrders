@@ -1,0 +1,14 @@
+==============================================================================
+Tasks :: Orders robots from RobotSpareBin Industries Inc. Saves the order H...
+==============================================================================
+Order robots from RobotSpareBin Industries Inc                        | FAIL |
+KeyError: 'Missing required environment variable: RC_API_SECRET_HOST'
+
+Also teardown failed:
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:/Users/E1365355/OneDrive - Emerson/RoboCorp Automations/robot-orders/output/PDFReceipts'
+------------------------------------------------------------------------------
+Tasks :: Orders robots from RobotSpareBin Industries Inc. Saves th... | FAIL |
+1 task, 0 passed, 1 failed
+==============================================================================
+Output:  c:\Users\E1365355\OneDrive - Emerson\RoboCorp Automations\robot-orders\output\output.xml
+Log:     c:\Users\E1365355\OneDrive - Emerson\RoboCorp Automations\robot-orders\output\log.html
